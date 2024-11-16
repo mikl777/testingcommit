@@ -6,3 +6,5 @@ makan kambing
 minum teh
 
 warna ungu
+
+monitor
